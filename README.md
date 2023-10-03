@@ -1,1 +1,1 @@
-Server Side Rendering
+SSR(Server Side Rendering)
